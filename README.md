@@ -1,6 +1,6 @@
 # Transformers from Scratch
 
-This project is a deep dive into the inner workings of transformer models, built from scratch using C++. The primary aim is to demystify the components that constitute transformer architectures, such as self-attention mechanisms, feed-forward networks, positional encodings, and layer normalization. This educational endeavor is designed to enhance understanding of the fundamentals of transformers, serving as a practical exercise in implementing complex machine learning algorithms from the ground up.
+This project is an educational exploration into the transformer model architecture, specifically focusing on the implementation of the feed-forward network component in C++. The objective is to shed light on the intricacies of transformer models, which are pivotal in advancing the field of natural language processing and beyond. By dissecting and reconstructing the feed-forward network from scratch, we delve into the core principles that underpin these powerful models, offering a hands-on approach to demystifying complex machine learning algorithms.
 
 ## Table of Contents
 
