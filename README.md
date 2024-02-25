@@ -30,7 +30,7 @@ Transformers have revolutionized the field of natural language processing and be
 This project is built using C++. Ensure you have a C++ compiler installed on your system. Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/ChRotsides/TransformerExampleInCpp.git
 cd transformers-from-scratch
 ```
 
