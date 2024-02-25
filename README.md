@@ -32,21 +32,23 @@ This project is built using C++. Ensure you have a C++ compiler installed on you
 ```bash
 git clone https://your-repository-url.git
 cd transformers-from-scratch
+```
 
-Usage
+## Usage
 To compile and run the project, navigate to the project directory and use the following commands:
 
-bash
-Copy code
+```bash
+
 g++ -o main main.cpp ./src/*.cpp -I ./include
 ./main
+```
 This will execute the main.cpp file, which orchestrates the entire transformer model process, from tokenizing inputs to generating predictions.
 
-Structure
+## Structure
 The project is structured as follows:
 
 include/: Contains all header files defining the classes and methods for various components like the embedding layer, self-attention mechanism, encoder, and decoder.
 src/: Implementation of the class methods defined in the header files.
 main.cpp: The entry point of the application, demonstrating the usage of different components.
-Contributing
+## Contributing
 Contributions to this project are welcome! Please fork the repository, make your changes, and submit a pull request.
